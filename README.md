@@ -1,12 +1,33 @@
-# React + Vite
+# 📘 My React.js Learning Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains all the React projects and mini-apps I've built while learning **React.js**.
 
-Currently, two official plugins are available:
+The goal of this repo is to **document my progress**, **practice core concepts**, and **showcase what I've learned** during my journey with React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📚 What I've Learned So Far
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Creating and organizing components
+- Props and State management
+- Handling events and forms
+- Using `useState`, `useEffect`, and other React hooks
+- Conditional rendering and list rendering
+- Routing with React Router
+- Basic styling with CSS and TailwindCSS
+- Working with APIs and fetching data
+
+---
+
+## 📂 Structure
+
+Each folder in this repository represents a different project or concept I’ve explored. Every project has its own purpose and code that reflects a specific concept or feature in React.
+
+---
+
+## 🛠️ How to Run Any Project
+
+```bash
+cd project-folder-name
+npm install
+npm start
