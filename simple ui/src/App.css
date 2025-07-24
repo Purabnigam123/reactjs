@@ -1,0 +1,31 @@
+.todo-container {
+  justify-items: center;
+}
+.row {
+  justify-content: center;
+  width: 100%;
+}
+h1 {
+  font-weight: 800;
+  font-size: 50px;
+  margin: 30px 0;
+}
+input {
+  width: 100%;
+}
+.todo-items {
+  width: 100%;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: left;
+}
+.kg-row {
+  margin: 10px 5px;
+}
+.kg-button {
+  width: 100px;
+}
+.todo-items button {
+  justify-items: center;
+  align-items: center;
+}
